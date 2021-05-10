@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "US State Capitals Quiz"
